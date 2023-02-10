@@ -1,2 +1,8 @@
 #!/bin/bash
 0 string SCHOOL School data !:mime School
+
+Do not execute the file
+
+	file -C -M school.mgc
+
+
